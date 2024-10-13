@@ -1,5 +1,5 @@
 # Hi, i'm Ahmad 💻👽
-<br>🏢 I’m working on [Hadassah hospital](https://he.hadassah.org.il)  one of the largest hospitals in israel<br><br>🎓 B.Sc. Computer Science - Cyber Security at [Hebrew University](https://www.openu.ac.il)  one of the best universities in israel<br><br>🎓 Studied Cyber Security & System Administration at [Technion University](https://www.technion.ac.il)  Ranked 85th in the Top 100 Worldwide<br><br>🎓 Studied Front-end Enginer at [AppleSeeds](https://appleseeds.org.il/en/en-home/)<br><br>🎓 Studied Graphic Design at [Pitman](https://www.pitman-training.com/our-courses/web-design-development/graphic-design-courses/)
+<br>🏢 I’m working on [Hadassah hospital](https://he.hadassah.org.il)  one of the largest hospitals in israel<br><br>🎓 B.Sc. Computer Science - Cyber Security at [Hebrew open University](https://www.openu.ac.il)  one of the best universities in israel<br><br>🎓 Studied Cyber Security & System Administration at [Technion University](https://www.technion.ac.il)  Ranked 85th in the Top 100 Worldwide<br><br>🎓 Studied Front-end Enginer at [AppleSeeds](https://appleseeds.org.il/en/en-home/)<br><br>🎓 Studied Graphic Design at [Pitman](https://www.pitman-training.com/our-courses/web-design-development/graphic-design-courses/)
 
 
 ## 🌐 Socials:
